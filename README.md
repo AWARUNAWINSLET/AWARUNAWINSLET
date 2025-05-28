@@ -11,8 +11,7 @@
 - 🌐 HTML, CSS, JavaScript  
 - 🐍 Python  
 - 🧠 Logical and Analytical Thinking (thanks to my Mathematics background)
-- 
----
+
 
 ## 📈 Currently Learning
 
@@ -32,7 +31,7 @@
 - [LinkedIn] www.linkedin.com/in/
 arunawinslet-aw-9aa191361
 
-- 📧 Email: your.email@example.com
+- 📧 Email:arunawinslet@gmail.com
 
 ---
 
