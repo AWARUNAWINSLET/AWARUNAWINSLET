@@ -29,6 +29,8 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/arunawinslet_aw)](https://leetcode.com/arunawinslet_aw/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/winsladdu)
+
 ## 📫 Connect with Me
 
 - [LinkedIn] www.linkedin.com/in/
