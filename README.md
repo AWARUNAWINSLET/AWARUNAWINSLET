@@ -24,7 +24,10 @@
 - RAG
 - Aws lambda
 - Mongodb
----
+  
+### 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/arunawinslet_aw)](https://leetcode.com/arunawinslet_aw/)
 
 ## 📫 Connect with Me
 
